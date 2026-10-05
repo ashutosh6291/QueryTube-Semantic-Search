@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+python-multipart
+faiss-cpu
+scikit-learn
+pandas
+numpy
+python-dotenv
+google-api-python-client
+supadata
+sentence-transformers
+chromadb
+tqdm
